@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">P0381_SQLiteStatement</string>
+    <string name="time">Time:</string>
+    <string name="insert">Insert</string>
+</resources>
